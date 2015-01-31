@@ -13,3 +13,5 @@ Just download the package and double click the `One Dark.terminal` file. Set thi
 ![Screenshot](https://raw.githubusercontent.com/nathanbuchar/one-dark-terminal/master/screenshots/one-dark-3.jpg)
 
 ![Screenshot](https://raw.githubusercontent.com/nathanbuchar/one-dark-terminal/master/screenshots/one-dark-4.jpg)
+
+![Screenshot](https://raw.githubusercontent.com/nathanbuchar/one-dark-terminal/master/screenshots/one-dark-5.jpg)

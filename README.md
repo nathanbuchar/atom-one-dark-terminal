@@ -1,5 +1,5 @@
 # Atom One Dark theme for Terminal
-A Terminal theme that mimics the [https://atom.io/themes/one-dark-syntax](One Dark theme) made by the Atom team.
+A Terminal theme that mimics the [One Dark Theme](https://atom.io/themes/one-dark-syntax) made by the Atom team.
 
 ## Installation
 Just download the package and double click the `One Dark.terminal` file. Set this as your default profile by opening Terminal, going to settings, clicking on "One Dark" and then clicking on the "Default" button.

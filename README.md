@@ -1,5 +1,5 @@
 # Atom One Dark theme for Terminal
-A Terminal theme that mimics the native [One Dark Theme](https://atom.io/themes/one-dark-syntax) made by the Atom team.
+A theme for Terminal and iTerm that mimics the native [One Dark Theme](https://atom.io/themes/one-dark-syntax) made by the Atom team.
 
 ## Screenshots
 

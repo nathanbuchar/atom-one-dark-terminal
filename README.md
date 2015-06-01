@@ -37,6 +37,8 @@ Support for One Dark versions 0.4.0 and 0.5.0 can be found in the `archive` fold
 
 ![Screenshot](https://raw.githubusercontent.com/nathanbuchar/one-dark-terminal/master/screenshots/one-dark-alt-2.png)
 
+![Screenshot](https://raw.githubusercontent.com/nathanbuchar/one-dark-terminal/master/screenshots/one-dark-alt-3.png)
+
 
 
 ## Authors

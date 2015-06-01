@@ -4,6 +4,7 @@ A theme for Terminal and iTerm that mimics the native [One Dark Theme](https://a
 
 
 ### Changelog
+- **0.7.1** - Added an alternate theme using a darker window color, based on the outer ui and not the editor space. You can see screenshots of the alt theme [here](#070-alt-screenshots).
 - **0.7.0** - Update contrast to reflect One Dark Syntax 0.7.0
 - **0.5.0** - Update to lighter background and brighter colors to reflect One Dark Syntax 0.5.0
 
@@ -27,6 +28,14 @@ Support for One Dark versions 0.4.0 and 0.5.0 can be found in the `archive` fold
 ![Screenshot](https://raw.githubusercontent.com/nathanbuchar/one-dark-terminal/master/screenshots/one-dark-5.png)
 
 ![Screenshot](https://raw.githubusercontent.com/nathanbuchar/one-dark-terminal/master/screenshots/one-dark-6.png)
+
+
+
+### 0.7.1 Alt Theme Screenshots
+
+![Screenshot](https://raw.githubusercontent.com/nathanbuchar/one-dark-terminal/master/screenshots/one-dark-alt-1.png)
+
+![Screenshot](https://raw.githubusercontent.com/nathanbuchar/one-dark-terminal/master/screenshots/one-dark-alt-2.png)
 
 
 

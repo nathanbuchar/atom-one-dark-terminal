@@ -1,0 +1,23 @@
+One Dark                       One Light
+
+Black:          #000000        Black:          #000000
+Bright Black:   #5C6370        Bright Black:   #383A42
+Red:            #E06C75        Red:            #E45649
+Bright Red:     #E06C75        Bright Red:     #E45649
+Green:          #98C379        Green:          #50A14F
+Bright Green:   #98C379        Bright Green:   #50A14F
+Yellow:         #D19A66        Yellow:         #986801
+Bright Yellow:  #D19A66        Bright Yellow:  #986801
+Blue:           #61AFEF        Blue:           #4078F2
+Light Blue:     #61AFEF        Light Blue:     #4078F2
+Magenta:        #C678DD        Magenta:        #A626A4
+Light Magenta:  #C678DD        Light Magenta:  #A626A4
+Cyan:           #56B6C2        Cyan:           #0184BC
+Light Cyan:     #56B6C2        Light Cyan:     #0184BC
+White:          #ABB2BF        White:          #A0A1A7
+Bright White:   #FFFFFF        Bright White:   #FFFFFF
+Text:           #5C6370        Text:           #383A42
+Bold Text:      #ABB2BF        Bold Text:      #A0A1A7
+Selection:      #3E4451        Selection:      #3E4451
+Cursor:         #5C6370        Cursor:         #383A42
+Background:     #1C1E24        Background:     #F9F9F9

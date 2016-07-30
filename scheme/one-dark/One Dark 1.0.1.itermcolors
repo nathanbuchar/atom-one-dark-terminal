@@ -185,11 +185,11 @@
 	<key>Foreground Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.43921568989753723</real>
+		<real>0.69588643312454224</real>
 		<key>Green Component</key>
-		<real>0.38823530077934265</real>
+		<real>0.63642364740371704</real>
 		<key>Red Component</key>
-		<real>0.36078432202339172</real>
+		<real>0.60774445533752441</real>
 	</dict>
 	<key>Selected Text Color</key>
 	<dict>

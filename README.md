@@ -1,7 +1,6 @@
 # Atom One Dark theme for Terminal
-A theme for Terminal and iTerm that mimics the native [One Dark Theme](https://atom.io/themes/one-dark-syntax) made by the [Atom](http://atom.io) team.
 
-## Now available in [One Light](https://atom.io/themes/one-light-syntax)!
+A theme for Terminal and iTerm that mimics the native [One Dark Theme](https://atom.io/themes/one-dark-syntax) made by the [Atom](http://atom.io) team. Also available in One Light.
 
 
 
@@ -9,19 +8,19 @@ A theme for Terminal and iTerm that mimics the native [One Dark Theme](https://a
 - **1.0.2** - Using a brighter text color for the One Dark theme and remove transparency from backgrounds.
 - **1.0.1** - Using generic RGB for colors; 95% opaque backgrounds.
 - **1.0.0** - Added One Light theme; refined colors.
-- **0.7.1** - Added an alternate theme using a darker window color, based on the outer ui and not the editor space. You can see screenshots of the alt theme [here](#071-alt-theme-screenshots).
+- **0.7.1** - Added an alternate theme using a darker window color, based on the outer ui and not the editor space.
 - **0.7.0** - Update contrast to reflect One Dark Syntax 0.7.0
 - **0.5.0** - Update to lighter background and brighter colors to reflect One Dark Syntax 0.5.0
 
 
 
-### One Dark
+### Screenshots
+
+**One Dark**
 
 ![Screenshot](./screenshots/one-dark.png)
 
-
-
-### One Light
+**One Light**
 
 ![Screenshot](./screenshots/one-light.png)
 

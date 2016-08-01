@@ -27,9 +27,9 @@ A theme for Terminal and iTerm that mimics the native [One Dark Theme](https://a
 
 
 ## Authors
-* [Nathan Buchar](mailto:hello@nathanbuchar.com)
+* [Nathan Buchar](mailto:hello@nathanbuchar.com) (Owner)
 
 
 
 ## License
-MIT
+ISC

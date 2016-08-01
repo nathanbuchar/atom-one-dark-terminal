@@ -15,15 +15,15 @@ A theme for Terminal and iTerm that mimics the native [One Dark Theme](https://a
 
 
 
-### One Dark 1.0.0
+### One Dark
 
-![Screenshot](https://raw.githubusercontent.com/nathanbuchar/one-dark-terminal/master/screenshots/one-dark.png)
+![Screenshot](./screenshots/one-dark.png)
 
 
 
-### One Light 1.0.0
+### One Light
 
-![Screenshot](https://raw.githubusercontent.com/nathanbuchar/one-dark-terminal/master/screenshots/one-light.png)
+![Screenshot](./screenshots/one-light.png)
 
 
 

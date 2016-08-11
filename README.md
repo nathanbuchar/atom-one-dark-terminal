@@ -5,6 +5,7 @@ A theme for Terminal and iTerm that mimics the native [One Dark Theme](https://a
 
 
 ### Changelog
+- **1.0.3** - For One Dark, use the same color for "Black" as that used for the window background (`#1E2127`).
 - **1.0.2** - Using a brighter text color for the One Dark theme and remove transparency from backgrounds.
 - **1.0.1** - Using generic RGB for colors; 95% opaque backgrounds.
 - **1.0.0** - Added One Light theme; refined colors.

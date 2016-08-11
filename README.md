@@ -3,6 +3,18 @@
 A theme for Terminal and iTerm that mimics the native [One Dark Theme](https://atom.io/themes/one-dark-syntax) made by the [Atom](http://atom.io) team. Also available in One Light.
 
 
+### Colors not working?
+
+For this theme to work, you need to enable colors within Terminal. To do this, append the following to your `~/.bashrc` file
+```
+export CLICOLOR=1
+export LSCOLORS=ExFxBxDxCxegedabagacad
+```
+
+This one line will do that for you. Copy and paste it into a Terminal window, then hit <kbd>return</kbd>.
+```
+echo '\n# Add colors to Terminal\nexport CLICOLOR=1\nexport LSCOLORS=GxFxCxDxBxegedabagaced' >> ~/.bashrc
+```
 
 ### Changelog
 - **1.0.3** - For One Dark, use the same color for "Black" as that used for the window background (`#1E2127`).

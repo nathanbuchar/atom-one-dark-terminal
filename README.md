@@ -5,13 +5,13 @@ A theme for Terminal and iTerm that mimics the native [One Dark Theme](https://a
 
 ### Colors not working?
 
-For this theme to work, you need to enable colors within Terminal. To do this, append the following to your `~/.bashrc` file
+Colors are not enabled by default in macOS Terminal, so you will need to enable colors in order for this theme to work. To do this, append the following to your `~/.bashrc` file, then restart Terminal
 ```
 export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
 ```
 
-This one line will do that for you. Copy and paste it into a Terminal window, then hit <kbd>return</kbd>.
+This one line will do that for you. Copy and paste it into a Terminal window, hit <kbd>return</kbd>, then restart Terminal.
 ```
 echo '\n# Add colors to Terminal\nexport CLICOLOR=1\nexport LSCOLORS=GxFxCxDxBxegedabagaced' >> ~/.bashrc
 ```

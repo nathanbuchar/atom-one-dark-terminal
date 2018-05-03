@@ -13,7 +13,7 @@ export LSCOLORS=ExFxBxDxCxegedabagacad
 
 This one line will do that for you. Copy and paste it into a Terminal window, hit <kbd>return</kbd>, then restart Terminal.
 ```
-echo '\n# Add colors to Terminal\nexport CLICOLOR=1\nexport LSCOLORS=GxFxCxDxBxegedabagaced' >> ~/.bashrc
+echo -e '\n# Add colors to Terminal\nexport CLICOLOR=1\nexport LSCOLORS=GxFxCxDxBxegedabagaced' >> ~/.bashrc
 ```
 
 ### Changelog

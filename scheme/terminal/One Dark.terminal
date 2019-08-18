@@ -209,7 +209,7 @@
 	<key>ShowWindowSettingsNameInTitle</key>
 	<true/>
 	<key>TerminalType</key>
-	<string>ansi</string>
+	<string>xterm-256color</string>
 	<key>TextBoldColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
